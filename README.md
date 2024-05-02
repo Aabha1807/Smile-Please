@@ -5,7 +5,7 @@ A Real-Time Facial Expression Classification Using Convolution Neural Network
 "Smile Detection" is a real-time facial expression classification project that uses Convolutional Neural Networks (CNNs) to identify whether a person is smiling. The project leverages deep learning techniques to analyze images of faces and accurately classify them based on the presence of a smile.
 
 ## Data Sources
-The model is trained on the `fer2013` dataset, which has been modified to categorize expressions into two classes:
+The model is trained on the `FER2013` dataset, which has been modified to categorize expressions into two classes:
 - **Happy**: Images where individuals are smiling.
 - **Not Happy**: Consists of images that represent sadness, surprise, and anger.
 
@@ -44,4 +44,4 @@ To run the `SmileDetection.ipynb` notebook:
 The notebook will display the processed images with predictions indicating whether the person in the image is smiling.
 
 ## Acknowledgments
-This project was inspired by the need for automated real-time facial expression recognition in various applications such as security systems and user experience enhancements.
+This project was inspired by the need for automated real-time facial expression recognition in various applications.
