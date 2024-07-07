@@ -1,5 +1,5 @@
 # Smile-Please
-A Real-Time Facial Expression Classification Using Convolution Neural Network
+A Real-Time Facial Expression Classification Using Convolutional Neural Network
 
 ## Project Description
 "Smile Detection" is a real-time facial expression classification project that uses Convolutional Neural Networks (CNNs) to identify whether a person is smiling. The project leverages deep learning techniques to analyze images of faces and accurately classify them based on the presence of a smile.
